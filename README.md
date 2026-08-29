@@ -52,7 +52,7 @@ The solution uses:
 
   
 
-  ## Screenshots
+ ## Screenshots
 
 ### 1. Failed Job Detection
 
@@ -69,7 +69,6 @@ The solution uses:
 ### 4. SSRS Recovery Subscription
 
 ![SSRS Recovery Subscription](images/04-ssrs-recovery-subscription.jpg)
-
 
 
 The automated recovery cycle is:
