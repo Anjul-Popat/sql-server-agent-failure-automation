@@ -50,6 +50,28 @@ The solution uses:
 - SSRS E-Mail delivery
 - `msdb.dbo.sp_start_job`
 
+  
+
+  ## Screenshots
+
+### 1. Failed Job Detection
+
+![SSRS Failed Job Details](images/01-ssrs-failed-job-details.jpg)
+
+### 2. Dynamic Job Parameter
+
+![Dynamic Job Parameter](images/02-job-name-dynamic-default.jpg)
+
+### 3. Automated Job Retrigger
+
+![Automated Job Retrigger](images/03-retrigger-job-execution.jpg)
+
+### 4. SSRS Recovery Subscription
+
+![SSRS Recovery Subscription](images/04-ssrs-recovery-subscription.jpg)
+
+
+
 The automated recovery cycle is:
 
 **Detect → Notify → Retrigger → Confirm → Repeat**
